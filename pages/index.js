@@ -1,4 +1,5 @@
-import BaseLayout from "../components/shared/layouts/BaseLayout";
+import BaseLayout from "../../components/layouts/BaseLayout";
+import Link from "next/link";
 
 const Home = () => {
   return (
