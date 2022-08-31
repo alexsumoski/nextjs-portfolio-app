@@ -1,0 +1,15 @@
+@import "./shared/fonts.scss";
+@import './index';
+@import "./components/shared/header";
+
+html, body {
+    font-family: "Montserrat", "Helvetica";
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.absolute {
+    position: absolute;
+}
